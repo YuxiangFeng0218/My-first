@@ -1,0 +1,13 @@
+%chk=D:\homework2\Problem1\1-UHF.chk
+# scan uhf/6-311+g(d) guess=(mix,always) geom=nocrowd
+
+Title Card Required
+
+0 1
+ Ar             
+ Ar                 1            B1
+
+   B1             0.3 50 0.100000
+
+
+
